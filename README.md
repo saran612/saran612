@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I am an engineering student and a passionate devel
 - [Portfolio](https://saran612.github.io/)
 
 ## 🌍 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/saran-karthick-1b2a51329/)
+- [LinkedIn](https://www.linkedin.com/in/saran-karthick612/)
 - [x](https://www.x.com/saran_0612/)
 
 ## 📫 @reach me
