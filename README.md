@@ -9,8 +9,8 @@ Welcome to my GitHub profile! I am an engineering student and a passionate devel
 - 🤔 I’m looking for help with project deployment.
 
 ## 🛠️ Technologies & Tools
-- **Languages**: Python, C.
-- **Tools**: Figma, Git,github, Visual Studio Code ,.
+- **Languages**: Python, C, Java.
+- **Tools**: Figma, Blender, Git, Github, Visual Studio Code.
 
 ## Portfolio
 - [Portfolio](https://saran612.github.io/)
