@@ -9,6 +9,12 @@ Welcome to my GitHub profile!
 
 ## 🛠️ Technologies & Tools
 - **Languages & **: Python, C, Java, JavaScript, TypeScript.
-- **Tools**: Figma, Blender, Git, Github, Visual Studio Code.
-<br>
+- **Tools**: Figma, Blender, Git, Github, Visual Studio Code.<!-- Spacing above -->
+<br><br>
+
+<!-- Heatmap -->
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saran612&theme=minimal&hide_border=true)
+
+<!-- Spacing below -->
+<br><br>
+
