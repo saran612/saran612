@@ -1,5 +1,5 @@
 ![My GitHub Banner](./banner.png)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saran612&theme=xcode)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saran612&theme=rogue)
 
 ## I'm Saran karthick 
 
