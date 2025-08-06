@@ -1,6 +1,6 @@
 ![My GitHub Banner](./banner.png)
 <br>
-## I'm Saran karthick 
+<h1>I'm Saran karthick</h1> 
 
 Welcome to my GitHub profile!
 
