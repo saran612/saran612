@@ -1,5 +1,6 @@
 ![My GitHub Banner](./banner.png)
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saran612&theme=minimal)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saran612&theme=minimal&hide_border=true)
+
 
 
 ## I'm Saran karthick 
