@@ -1,6 +1,8 @@
+![My GitHub Banner](./banner.png)
+
 ## I'm Saran karthick 
 
-Welcome to my GitHub profile! I am an engineering student and a passionate developer.
+Welcome to my GitHub profile!
 
 ## 🚀 About Me
   I’m currently pursuing a BTech in Computer Science and Business Systems (CSBS), with a growing passion for web development and a strong curiosity in AI and Machine Learning. I'm actively exploring open-source collaborations and creating seamless digital experiences through code and creativity. I thrive at the intersection of innovation and execution—constantly learning, experimenting, and delivering projects that matter.
