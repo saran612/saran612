@@ -1,8 +1,5 @@
 ![My GitHub Banner](./banner.png)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saran612&theme=minimal&hide_border=true)
-
-
-
+<br>
 ## I'm Saran karthick 
 
 Welcome to my GitHub profile!
@@ -13,4 +10,5 @@ Welcome to my GitHub profile!
 ## 🛠️ Technologies & Tools
 - **Languages & **: Python, C, Java, JavaScript, TypeScript.
 - **Tools**: Figma, Blender, Git, Github, Visual Studio Code.
-
+<br>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saran612&theme=minimal&hide_border=true)
