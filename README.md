@@ -1,6 +1,6 @@
 ![My GitHub Banner](./banner.png)
 <br><br>
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fff&lines=I'm%20Saran%20karthick;Machine%20Learning%20Engineer;B.Tech%20Student;Building%20and%20Learning)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fff&lines=Machine%20Learning%20Engineer;B.Tech%20Student;Building%20and%20Learning)
 
 ## About Me
   I engineer the underlying logic of the new internet. Focused on Machine Learning, Intelligent Automations, and crafting seamless human-computer experiences.
