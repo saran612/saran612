@@ -1,20 +1,28 @@
 ![My GitHub Banner](./banner.png)
-<br>
-<h1>I'm Saran karthick</h1> 
-
-Welcome to my GitHub profile!
-
-## 🚀 About Me
-  I’m currently pursuing a BTech in Computer Science and Business Systems (CSBS), with a growing passion for web development and a strong curiosity in AI and Machine Learning. I'm actively exploring open-source collaborations and creating seamless digital experiences through code and creativity. I thrive at the intersection of innovation and execution—constantly learning, experimenting, and delivering projects that matter.
-
-## 🛠️ Technologies & Tools
-- **Languages**: Python, C, Java, JavaScript, TypeScript.
-- **Tools**: Figma, Blender, Git, Github, Visual Studio Code.<!-- Spacing above -->
 <br><br>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fff&lines=I'm%20Saran%20karthick;Machine%20Learning%20Engineer;B.Tech%20Student;Building%20and%20Learning)
 
-<!-- Heatmap -->
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saran612&theme=minimal&hide_border=true)
+## About Me
+  I engineer the underlying logic of the new internet. Focused on Machine Learning, Intelligent Automations, and crafting seamless human-computer experiences.
 
-<!-- Spacing below -->
+## Technologies & Tools
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java)](https://skillicons.dev)
+
+### Frontend
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwindcss,nextjs)](https://skillicons.dev)
+
+### Backend & Systems
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,docker,kubernetes,linux,arch)](https://skillicons.dev)
+
+### Data Science & ML
+[![My Skills](https://skillicons.dev/icons?i=pytorch,matlab,tensorflow,sklearn)](https://skillicons.dev)
+
+### Databases
+[![My Skills](https://skillicons.dev/icons?i=supabase,mongodb,mysql,postgres)](https://skillicons.dev)
+
+### Productivity
+[![My Skills](https://skillicons.dev/icons?i=figma,blender,photoshop,obsidian,git,github,vscode,vercel)](https://skillicons.dev)
 <br><br>
+![GitHub Streak](https://streak-stats.demolab.com?user=saran612&theme=tokyonight)
 
